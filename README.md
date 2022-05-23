@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-<h1 align="center">🗺️ <a href="https://charming-biscochitos-286413.netlify.app">Mapty</a></h1>
+<h1 align="center">🗺️ <a href="https://mapty-mvidicek.netlify.app">Mapty</a></h1>
 
   <p align="center">
     Minimalistic Workout Mapping Web Application (JS | HTML | CSS) <br/>
